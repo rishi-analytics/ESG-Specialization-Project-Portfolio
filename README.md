@@ -4,7 +4,7 @@ Showcasing learnings from ESG for All specialization and ESG data analysis proje
 # ESG Data Analysis Project  
 **Author:** Rishi Kesari  
 **Role:** Business Analyst | Data Analyst
-**Dataset Source:** Kaggle — ESG Risk Ratings Dataset(https://www.kaggle.com/datasets/pritish509/s-and-p-500-esg-risk-ratings)
+**Dataset Source:** Kaggle — ESG Risk Ratings Dataset [here](https://www.kaggle.com/datasets/pritish509/s-and-p-500-esg-risk-ratings)
 
 ---
 
