@@ -1,12 +1,3 @@
-[![Data Velho Rishi](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
-![ESG](https://img.shields.io/badge/Domain-ESG-green)
-![Sustainability](https://img.shields.io/badge/Focus-Sustainability-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple)
-
 <p id="PySpark_Certificate" align="center">
 
 <img src="ESG-Specialization-Project-Portfolio/images/esg_certificate.png"  width="600"  height="600">
@@ -16,7 +7,7 @@
 
 
 # ESG for All — Coursera Specialization Portfolio
-
+[![Data Velho Rishi](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![Project Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
