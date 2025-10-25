@@ -58,13 +58,27 @@ It demonstrates **data cleaning, imputation, exploratory data analysis (EDA), an
 - **Governance risk**: relatively stable across sectors  
 
 ---
-Some images from the project:
+## Visuals: Some images from the project:
 
+### Distribution of Total ESG Risk Scores
 <img id="picture1" src="Project_Images/Distribution of Total ESG Risk Score.png" alt="alt text" width="600"/>
 
+---
+### Top and Bottom ESG Performers
 <img id="picture2" src="Project_Images/ESG Risk Score- Lowest+highest.png" alt="alt text" width="600"/>
+
+---
+
+
+### Controversy Level Distribution
 
 <img id="picture3" src="Project_Images/Controversy_Level.pie.png" alt="alt text" width="600"/>
 
+---
+
+### Average ESG Dimension Scores by Sector
+
 <img id="picture2" src="Project_Images/Average ESG Dimension Scores by Sector.png" alt="alt text" width="600"/>
+
+---
 
