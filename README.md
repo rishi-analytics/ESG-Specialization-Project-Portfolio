@@ -1,6 +1,6 @@
 <p id="PySpark_Certificate" align="center">
 
-<img src="ESG-Specialization-Project-Portfolio/images/esg_certificate.png"  width="600"  height="600">
+<img src="images/esg_certificate.png"  width="600"  height="600">
     
 </p>
 
