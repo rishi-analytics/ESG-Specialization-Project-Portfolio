@@ -60,7 +60,7 @@ It demonstrates **data cleaning, imputation, exploratory data analysis (EDA), an
 ---
 Some images from the project:
 
-<img id="picture1" src="images/Distribution of Total ESG Risk Score.png" alt="alt text" width="600"/>
+<img id="picture1" src="ESG-Specialization-Project-Portfolio/images/Distribution of Total ESG Risk Score.png" alt="alt text" width="600"/>
 
 <img id="picture2" src="images/ESG Risk Score- Lowest+highest.png" alt="alt text" width="600"/>
 
