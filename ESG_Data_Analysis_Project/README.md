@@ -67,11 +67,3 @@ Some images from the project:
 <img id="picture3" src="images/Controversy_Level.pie.png" alt="alt text" width="600"/>
 
 <img id="picture2" src="images/Average ESG Dimension Scores by Sector.png" alt="alt text" width="600"/>
-
-![Distribution of Total ESG Risk Score](images/Distribution_of_Total_ESG_Risk_Score.png)
-
-![Top and Bottom ESG Performers](images/ESG_Risk_Score_Lowest_Highest.png)
-
-![Controversy Level Distribution](images/Controversy_Level_pie.png)
-
-![Average ESG Dimension Scores by Sector](images/Average_ESG_Dimension_Scores_by_Sector.png)
