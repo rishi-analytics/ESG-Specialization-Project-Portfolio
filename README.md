@@ -1,11 +1,3 @@
-<p id="PySpark_Certificate" align="center">
-
-<img src="images/esg_certificate.png"  width="600"  height="600">
-    
-</p>
-
-
-
 # ESG for All — Coursera Specialization Portfolio
 [![Data Velho Rishi](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![Project Status](https://img.shields.io/badge/Project-Completed-brightgreen)
@@ -16,6 +8,11 @@
 ![ESG](https://img.shields.io/badge/Domain-ESG-green)
 ![Sustainability](https://img.shields.io/badge/Focus-Sustainability-brightgreen)
 
+<p id="PySpark_Certificate" align="center">
+
+<img src="images/esg_certificate.png"  width="600"  height="600">
+    
+</p>
 ---
 
 ## Overview
