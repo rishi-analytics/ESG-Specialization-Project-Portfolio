@@ -34,11 +34,11 @@ It includes concise summaries of all six courses and a **practical ESG data anal
 ---
 
 ## ESG Data Analysis Project
-[Link to the project page] (https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/ESG_Data_Analysis_Project)
 The project analyzes a Kaggle ESG dataset to:  
 - Examine overall ESG risk profiles  
 - Identify top and bottom ESG performers  
 - Compare Environmental, Social, and Governance risk across sectors
+[Link to the project page](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/ESG_Data_Analysis_Project)
 
 **Key Features:**  
 - Data cleaning and imputation  
@@ -47,7 +47,7 @@ The project analyzes a Kaggle ESG dataset to:
 - Sector-wise ESG dimension comparison  
 - Insights aligned with ESG course learnings
 
-**Colab Notebook:** [`ESG_Project/ESG_Analysis.ipynb`(https://colab.research.google.com/drive/1PaCj1ZqyIKQExJzV0P7IMA89szjhyufY#scrollTo=81fvns2i5EVY)
+**Colab Notebook:** [`ESG_Project/ESG_Analysis.ipynb`](https://colab.research.google.com/drive/1PaCj1ZqyIKQExJzV0P7IMA89szjhyufY#scrollTo=81fvns2i5EVY)
 
 ---
 
