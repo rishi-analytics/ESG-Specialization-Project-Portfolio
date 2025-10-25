@@ -48,6 +48,7 @@ It demonstrates **data cleaning, imputation, exploratory data analysis (EDA), an
 
 ---
 
+
 ## Key Insights
 - Most companies have **moderate ESG risk**; few are high-risk outliers  
 - Top performers: tech, real estate, services (lowest risk)  
@@ -57,4 +58,12 @@ It demonstrates **data cleaning, imputation, exploratory data analysis (EDA), an
 - **Governance risk**: relatively stable across sectors  
 
 ---
+Some images from the project:
 
+<img id="picture1" src="images/Distribution of Total ESG Risk Score.png" alt="alt text" width="600"/>
+
+<img id="picture2" src="images/ESG Risk Score- Lowest+highest.png" alt="alt text" width="600"/>
+
+<img id="picture3" src="images/Controversy_Level.pie.png" alt="alt text" width="600"/>
+
+<img id="picture2" src="images/Average ESG Dimension Scores by Sector.png" alt="alt text" width="600"/>
