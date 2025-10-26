@@ -6,6 +6,13 @@
 ## Summary
 This course introduces the importance of Environmental, Social, and Governance (ESG) principles in modern business. It highlights how organizations integrate ESG into operations and decision-making to promote long-term sustainability, reduce environmental impact, and maintain competitiveness in a rapidly evolving global landscape.
 
+**What I learnt?:**
+- Gained a solid understanding of ESG principles and their role in modern business.
+- Learned how to integrate ESG into organizational operations and decision-making for long-term sustainability.
+- Explored the impact of ESG across industries, including environmental, social, and governance considerations.
+- Recognized the importance of stakeholder accountability, including environmental and societal impacts.
+- Understood the distinction between ESG and CSR, and how ESG drives measurable, long-term business value.
+
 ## Highlights / Key Points
 - ESG encourages sustainable and responsible practices in business operations.  
 - Integration of ESG is critical for long-term sustainability and competitiveness.  
