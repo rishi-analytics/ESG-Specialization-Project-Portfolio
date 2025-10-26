@@ -16,12 +16,12 @@
 ---
 
 ## Overview
-This repository contains my **portfolio work** for the "ESG for All" Coursera Specialization.  
-It includes concise summaries of all six courses and a **practical ESG data analysis project** using a Kaggle dataset. The project demonstrates application of ESG principles through **data cleaning, visualization, and interpretation**, connecting analytical insights to ESG concepts.
+This repository contains my portfolio work for the **"ESG for All" Coursera Specialization**.
+It includes concise summaries of all six courses and a practical ESG Data Analysis Project by pulling a Kaggle dataset. The project, developed by me after completing all six courses, bridges ESG knowledge with practical data analytics, showcasing my ability to apply ESG principles to real-world datasets and derive actionable sustainability insights.
 
 ---
 
-## Coursera Specialization Courses
+## Coursera Specialization Courses:
 1. **ESG Essentials for Sustainable Business**  
 2. **ESG Communication for Inclusive Dialogue**  
 3. **ESG Value Creation for Business Impact**  
@@ -38,7 +38,7 @@ The project analyzes a Kaggle ESG dataset to:
 - Examine overall ESG risk profiles  
 - Identify top and bottom ESG performers  
 - Compare Environmental, Social, and Governance risk across sectors
-[Link to the project page](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/ESG_Data_Analysis_Project)
+[Link to the project page](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/ESG_Data_Analysis_Project#esg-data-analysis-project)
 
 **Key Features:**  
 - Data cleaning and imputation  
