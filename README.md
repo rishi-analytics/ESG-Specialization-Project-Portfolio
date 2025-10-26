@@ -50,19 +50,3 @@ The project analyzes a Kaggle ESG dataset to:
 **Colab Notebook:** [`ESG_Project/ESG_Analysis.ipynb`](https://colab.research.google.com/drive/1PaCj1ZqyIKQExJzV0P7IMA89szjhyufY#scrollTo=81fvns2i5EVY)
 
 ---
-
-## Repository Structure
-ESG-for-All-Coursera/
-│
-├─ README.md               # Main repo overview with badges, courses, and project links
-├─ Courses/
-│   ├─ 01_ESG_Essentials.md
-│   ├─ 02_ESG_Communication.md
-│   ├─ 03_ESG_Value_Creation.md
-│   ├─ 04_ESG_Challenges.md
-│   ├─ 05_ESG_Mindsets.md
-│   └─ 06_ESG_Prioritization.md
-├─ ESG_Project/
-│   ├─ ESG_Analysis.ipynb  # Colab notebook
-│   └─ README.md           # Optional: project-specific README for details
-└─ assets/                 # images, plots, word cloud, etc.
