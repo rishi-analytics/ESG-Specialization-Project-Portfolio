@@ -10,12 +10,15 @@
 ---
 
 ## Overview
-This project analyzes a **Kaggle ESG dataset** to examine corporate ESG performance.  
+This project is built to integrate ESG knowledge with practical analytics. I designed this ESG Data Analysis Project after completing all six courses of the Coursera ‘ESG for All’ Specialization. The project reflects my ability to apply ESG principles to real-world data, highlighting both my analytical skills and my strategic approach to sustainability insights.
+
+This project analyzes a **Kaggle ESG dataset** to examine S&P top 100 companies' ESG performance.
+
 It demonstrates **data cleaning, imputation, exploratory data analysis (EDA), and visualization**, linking findings to ESG principles learned in the *“ESG for All”* Coursera Specialization.
 
 ---
 
-## Objectives
+## Project Objectives:
 1. **Examine overall ESG risk profiles**  
 2. **Identify top and bottom ESG performers**  
 3. **Compare ESG dimension scores (E, S, G) across sectors**  
