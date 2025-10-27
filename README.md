@@ -22,12 +22,12 @@ It includes concise summaries of all six courses and a practical ESG Data Analys
 ---
 
 ## Coursera Specialization Courses:
-1. **ESG Essentials for Sustainable Business**  [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_1#course-1-esg-essentials-for-sustainable-business)
-2. **ESG Communication for Inclusive Dialogue**  [-->](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_2#course-2-esg-communication-for-inclusive-dialogue)
-3. **ESG Value Creation for Business Impact**  [->](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_3#course-3-esg-value-creation-for-business-impact)
-4. **ESG Challenges and Solutions for Business**  [->](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_4#course-4-esg-challenges-and-solutions-for-business)
-5. **ESG Mindsets for Business Transformation**  [->]()
-6. **How to Prioritize ESG Initiatives**[->]()
+1. **ESG Essentials for Sustainable Business** [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_1#course-1-esg-essentials-for-sustainable-business)
+2. **ESG Communication for Inclusive Dialogue** [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_2#course-2-esg-communication-for-inclusive-dialogue)
+3. **ESG Value Creation for Business Impact** [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_3#course-3-esg-value-creation-for-business-impact)
+4. **ESG Challenges and Solutions for Business** [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_4#course-4-esg-challenges-and-solutions-for-business)
+5. **ESG Mindsets for Business Transformation** [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_5#course-5-esg-mindsets-for-business-transformation)
+6. **How to Prioritize ESG Initiatives** [→](https://github.com/rishi-analytics/ESG-Specialization-Project-Portfolio/tree/main/Course_6#course-6-how-to-prioritize-esg-initiatives)
 
 > Each course summary is included as a concise Markdown file in the `Courses/` folder.
 
