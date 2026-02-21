@@ -10,7 +10,7 @@
 
 <p id="PySpark_Certificate" align="center">
 
-<img src="images/esg_certificate.png"  width="1000"  height="800">
+<img src="images/esg_certificate.png"  width="600"  height="600">
     
 </p>
 ---
